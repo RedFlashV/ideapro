@@ -9,5 +9,5 @@ public class SpringbootappApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootappApplication.class, args);
     }
-
+    public  void mastertest(){}
 }
