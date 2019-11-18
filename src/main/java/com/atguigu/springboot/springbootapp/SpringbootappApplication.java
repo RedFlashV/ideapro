@@ -10,4 +10,5 @@ public class SpringbootappApplication {
         SpringApplication.run(SpringbootappApplication.class, args);
     }
     public  void mastertest(){}
+    public void dev(){}
 }
